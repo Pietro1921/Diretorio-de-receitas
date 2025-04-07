@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3ecff;
+}
+
+header {
+    background-color: #f3ecff;
+    color: #000000;
+    padding: 20px 40px;
+    text-align: center;}
+
+nav {
+        text-align: right;
+        margin-top: 20px;}
+
+nav a {
+    color: #000000;
+    margin-left: 15px;
+    text-decoration: none;}
+
+.main-banner {
+    width: 100%;
+    height: 200px;
+    background-color: #f3ecff;
+    text-align: center;
+    line-height: 300px;
+    font-size: 24px;
+    color: #000000;}
+    
+.content {
+    padding: 20px;
+    text-align: center;}
+    
+.content h2 {
+    font-size: 28px;
+    margin-bottom: 20px;}
+    
+.content p {
+        font-size: 18px;
+        margin-bottom: 20px;}
+    
+.cta-buttons {
+        margin-top: 20px;}
+    
+.cta-buttons button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 20px;
+    cursor: pointer;}
+
+footer {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    }
+img{
+    
+}
